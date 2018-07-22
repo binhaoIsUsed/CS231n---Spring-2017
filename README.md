@@ -1,19 +1,21 @@
 Virtual Environment(Optional):
 
-  cd assignment#
+    cd assignment#
   
-  sudo pip install virtualenv 
+    sudo pip install virtualenv 
   
-  python3 -m venv .env       		
+    python3 -m venv .env       		
   
-  source .env/bin/activate 
+    source .env/bin/activate 
   
-  
+
+
   pip install -r requirements.txt
+
 
 
 Download DataSet:
   
-  cd cs231n/datasets
+    cd cs231n/datasets
   
-  ./get_datasets.sh
+    ./get_datasets.sh
